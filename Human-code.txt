@@ -1,0 +1,67 @@
+
+Team 3
+
+Scegliere cosa guardare su Netflix
+Che barba, che noia, che noia, che barba!
+Perché ci si mette sempre un’ora a scegliere cosa guardare la sera? Certo è difficile mettere d’accordo i gusti di tutti, poi dipende anche in base al tempo (o al sonno) che abbiamo. 
+Delle volte si pensa di vedere quel bel film che ci hanno consigliato, mentre altre volte si viene risucchiati da quella serie tv che ci tiene incollati allo schermo. Che senso di vuoto quando poi finisce! 
+
+Sono a casa
+
+    SE mi annoio
+
+        Vado in camera
+        Accendo il ventilatore
+        Mi siedo sulla sedia
+        Accendo il computer
+        Decido di guardare qualcosa
+        Apro il browser
+        Vado su Netflix.it
+
+        ? SE ho un account 
+            Faccio il Log-in;
+        ALTRIMENTI creo un account
+            ...
+
+        Seleziono un utente
+
+            Cerco qualcosa
+
+
+                È passata mezz'ora?
+                        SI: ci rinuncio
+                        NO: continuo a cercare
+
+
+                ? SE ho meno di un'ora libera
+                    cerco una serie TV
+                        Ho voglia di novità?
+                        * SI: Scelgo una nuova serie 
+
+                            Seguo i consigli di un amico
+                            trovo qualcosa di interessante?
+                            SI: lo guardo
+                            NO: Guardo i suggerimenti di Netflix
+                                Guardo il trailer
+                                Mi è piaciuto?
+                                    SI: la guardo
+                                    NO: continuo a cercare 
+                
+
+                        * NO: ne continuo una già iniziata
+                            Controllo tra le mie serie già cominciate
+                            Ne scelgo una
+                            La guardo
+
+
+                ALTRIMENTI cerco un film
+                    Guardo il trailer
+                    Mi è piaciuto?
+                        SI: lo guardo
+                        NO: continuo a cercare 
+
+    ALTRIMENTI la vita è bella
+
+
+
+
